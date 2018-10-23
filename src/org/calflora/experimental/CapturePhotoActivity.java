@@ -27,7 +27,7 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.example.cameratester.*;
+import com.example.yura.cameratester.*;
 
 public class CapturePhotoActivity extends Activity implements SurfaceHolder.Callback
 {

@@ -1,4 +1,4 @@
-package com.example.cameratester;
+package com.example.yura.cameratester;
 
 import java.io.File;
 import java.io.FileNotFoundException;
